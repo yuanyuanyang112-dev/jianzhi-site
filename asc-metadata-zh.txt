@@ -1,0 +1,42 @@
+App 名称：极简减脂
+副标题：跟着吃就瘦 · 不用动脑子
+类别：健康健美（Health & Fitness）
+版权：2026 Aiyuan Yang
+支持网址：https://yuanyuanyang112-dev.github.io/jianzhi-site/
+隐私政策：https://yuanyuanyang112-dev.github.io/jianzhi-site/privacy.html
+营销网址：（可空）
+关键词：减脂,怎么吃,饮食,外卖,上班族,热量,体重,打卡,训练,固定菜单
+
+宣传文本（170字内，可选）：
+想瘦又不想算热量？早中晚照着选就行：早上记了吃什么，中午给你还能点什么，晚上再按剩下的推荐。自炊按生重算克数，外食给「怎么点」。跟着吃，少动脑子。
+
+描述：
+极简减脂给想减肥、又不想动脑子的人——跟着 App 吃也能瘦。
+
+不是又一个动作库。核心是帮你决定「今天吃什么」：早中晚一层层选，前面吃多了，后面自动变少、变轻。自炊有固定菜单和生重克数；上班族也能选茶叶蛋、沙县、汉堡这类常见组合，并看到怎么点、备注写啥（热量为约值）。
+
+【怎么吃（主功能）】
+• 早 → 午 → 晚：选了上一餐，下一餐选项跟着变
+• 自炊：每日菜单可换蛋白和主食，按生重自动重算，尽量保住热量与蛋白质
+• 外食：常见店型组合 + 点单备注；标「约」热量，不装成实验室数字
+• 「怎么吃」讲解：碳水、蛋白质、脂肪怎么配
+
+【训练与打卡（辅助）】
+• 按每周练 1～6 次选计划，有适合谁、好处、注意点
+• 训练/体重打卡与分享卡片；可结合苹果「健康」活动消耗（有授权才显示）
+• 会员可看发力图解等进阶内容
+
+【体重】
+• 首次可填初始体重；每天一键记体重
+• 看已减多少、离目标还差多少（可选择分享时不露具体体重）
+
+【说明】
+在你授权后读取相关健康数据，只在本机用于展示与估算。不是医疗设备，不能替代医生建议。外食热量为估算。
+
+【会员】
+订阅可解锁更多训练与发力图解等。基础饮食与打卡可继续免费使用。订阅通过 Apple 管理，可随时取消。
+
+有问题请发邮件至 yuanyuanyang112@gmail.com
+
+审核备注（Notes）草稿：
+极简减脂 is a China-first fat-loss app whose core is decision-free eating: breakfast → lunch → dinner cascading choices (home-cook portions by raw weight, plus approximate office/takeout combos with how-to-order notes). Training plans and weight check-ins are secondary. No account login. HealthKit only after permission, on-device, not medical advice. Calories for takeout are estimates. Subscriptions unlock advanced training (e.g. 4–6 days/week) and muscle diagrams; basic diet and check-in remain free. Contact: yuanyuanyang112@gmail.com / +86 15130617055.
